@@ -10,9 +10,9 @@ This project seeks to understand and evaluate different data visualization techn
 
 
 ### Software Requirements
-1.Python 
-2.R
-3.Tableau
+1. Python 
+2. R
+3. Tableau
 
 
 # Variation Autoencoder with MNIST Data
