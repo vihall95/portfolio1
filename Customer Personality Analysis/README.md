@@ -6,7 +6,7 @@ Victoria Hall
 
 ### Description
 This project uses unsupervised and supervised learning techniques to improve the results of targeted advertising. the data came from a Kaggle challenge.
-After initial data cleansing and EDA, KMean Clustering is used to identify latent groupings and then use those results as an additional feature for Logistic Regression
+After initial data cleansing and EDA, KMean Clustering is used to identify latent groupings and then those results were used as an additional feature for Logistic Regression
 
 
 ### Software Requirement(s)
