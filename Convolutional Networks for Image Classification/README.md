@@ -1,7 +1,7 @@
 # Convolutional Neural Networks for Image Classification
 
 ## Description
-This project sets out to use the Keras deep learning library to implement and test different image classification tasks. Networks were test on two differnt
+This project sets out to use the Keras deep learning library to implement and test different image classification tasks. Networks were test on two different
 datasets including MNIST and CIFAR10 data, both of which can be accessed through the Keras dataset library. 
 
 ## Contributor(s)
