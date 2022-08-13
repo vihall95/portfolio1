@@ -6,8 +6,7 @@ Victoria Hall
 
 ### Description
 The purpose of this project is to demonstrate different creation and retrieval strategies for accessing airline data stored in Parquet file formats.
-This dataset contains flight route information from OpenFlights.For this dataset, the key for each route will be the three-letter source airport code
-concatenated with the three-letter destination airport code and the two-letter airline.
+This dataset contains flight route information from OpenFlights. The original data in stored as JSONL in zip file. The JSON data is parsed, converted to Parquet and saved folders created by key. Then different retrieval techniques are employed to access the Parquet files is a digestible form. 
 
 
 ### Software Requirements
